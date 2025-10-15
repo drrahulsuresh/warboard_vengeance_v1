@@ -1,0 +1,166 @@
+{
+  "United States": {
+    "build_points": 180,
+    "ground": {
+      "tanks": 6500,
+      "artillery": 6000,
+      "personnel": 1300000
+    },
+    "air": {
+      "aircraft_total": 13000,
+      "fighters": 1800,
+      "bombers": 140
+    },
+    "naval": {
+      "ships": 490,
+      "carriers": 11,
+      "subs": 68
+    },
+    "defense": {
+      "air_defense": 0.9
+    },
+    "missiles": [
+      {
+        "name": "Trident II",
+        "range_km": 7400,
+        "damage": 28,
+        "radius": 2
+      },
+      {
+        "name": "Tomahawk",
+        "range_km": 1600,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "ATACMS",
+        "range_km": 300,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Russia": {
+    "build_points": 160,
+    "ground": {
+      "tanks": 9000,
+      "artillery": 7000,
+      "personnel": 1000000
+    },
+    "air": {
+      "aircraft_total": 4200,
+      "fighters": 800,
+      "bombers": 120
+    },
+    "naval": {
+      "ships": 270,
+      "carriers": 1,
+      "subs": 58
+    },
+    "defense": {
+      "air_defense": 0.85
+    },
+    "missiles": [
+      {
+        "name": "Topol-M",
+        "range_km": 11000,
+        "damage": 28,
+        "radius": 2
+      },
+      {
+        "name": "Kalibr",
+        "range_km": 1500,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "Iskander",
+        "range_km": 500,
+        "damage": 14,
+        "radius": 1
+      }
+    ]
+  },
+  "China": {
+    "build_points": 170,
+    "ground": {
+      "tanks": 5500,
+      "artillery": 9000,
+      "personnel": 2000000
+    },
+    "air": {
+      "aircraft_total": 3300,
+      "fighters": 1200,
+      "bombers": 120
+    },
+    "naval": {
+      "ships": 780,
+      "carriers": 3,
+      "subs": 76
+    },
+    "defense": {
+      "air_defense": 0.8
+    },
+    "missiles": [
+      {
+        "name": "DF-41",
+        "range_km": 12000,
+        "damage": 28,
+        "radius": 2
+      },
+      {
+        "name": "CJ-10",
+        "range_km": 1500,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "DF-16",
+        "range_km": 800,
+        "damage": 16,
+        "radius": 1
+      }
+    ]
+  },
+  "India": {
+    "build_points": 140,
+    "ground": {
+      "tanks": 4800,
+      "artillery": 7000,
+      "personnel": 1400000
+    },
+    "air": {
+      "aircraft_total": 2200,
+      "fighters": 600,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 295,
+      "carriers": 2,
+      "subs": 18
+    },
+    "defense": {
+      "air_defense": 0.7
+    },
+    "missiles": [
+      {
+        "name": "Agni V",
+        "range_km": 5000,
+        "damage": 24,
+        "radius": 2
+      },
+      {
+        "name": "BrahMos",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Pralay",
+        "range_km": 500,
+        "damage": 14,
+        "radius": 1
+      }
+    ]
+  }
+}
