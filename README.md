@@ -2,7 +2,7 @@
 
 A fast tactical strategy prototype built in Python (Pygame). Pick countries, deploy tanks/troops/jets, place radar and AA, and launch missiles — including **Anti-Radar (AR)** missiles that **cannot be intercepted**. The AI takes **one action per round** to keep turns fair and readable.
 
-> Latest: **v1.1.3** — AR missile included by default, AI one-action, market purchases go straight to inventory, auto return to menu at 100% damage.
+
 ---
 Features
 - Country picker with summarized capabilities
@@ -15,11 +15,9 @@ Features
 
 ---
 
-## 📦 Downloads
+📦 Downloads
 Grab the latest builds from **Releases**:  
 - Windows: `WarBoard_Vengeance_v1_1_3_Windows.zip`  
-
-> GitHub shows per-asset **download counts** on the release page.
 
 ---
 
