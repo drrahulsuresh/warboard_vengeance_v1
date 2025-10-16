@@ -162,5 +162,1030 @@
         "radius": 1
       }
     ]
+  },
+  "United Kingdom": {
+    "build_points": 135,
+    "ground": {
+      "tanks": 250,
+      "artillery": 300,
+      "personnel": 195000
+    },
+    "air": {
+      "aircraft_total": 700,
+      "fighters": 160,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 80,
+      "carriers": 2,
+      "subs": 11
+    },
+    "defense": {
+      "air_defense": 0.75
+    },
+    "missiles": [
+      {
+        "name": "Trident II",
+        "range_km": 7400,
+        "damage": 28,
+        "radius": 2
+      },
+      {
+        "name": "Storm Shadow",
+        "range_km": 560,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Brimstone",
+        "range_km": 60,
+        "damage": 10,
+        "radius": 1
+      }
+    ]
+  },
+  "France": {
+    "build_points": 140,
+    "ground": {
+      "tanks": 400,
+      "artillery": 400,
+      "personnel": 205000
+    },
+    "air": {
+      "aircraft_total": 1000,
+      "fighters": 220,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 120,
+      "carriers": 1,
+      "subs": 10
+    },
+    "defense": {
+      "air_defense": 0.78
+    },
+    "missiles": [
+      {
+        "name": "M51",
+        "range_km": 8000,
+        "damage": 26,
+        "radius": 2
+      },
+      {
+        "name": "SCALP",
+        "range_km": 560,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "ASMP-A",
+        "range_km": 500,
+        "damage": 18,
+        "radius": 1
+      }
+    ]
+  },
+  "Germany": {
+    "build_points": 125,
+    "ground": {
+      "tanks": 250,
+      "artillery": 300,
+      "personnel": 185000
+    },
+    "air": {
+      "aircraft_total": 600,
+      "fighters": 140,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 80,
+      "carriers": 0,
+      "subs": 6
+    },
+    "defense": {
+      "air_defense": 0.72
+    },
+    "missiles": [
+      {
+        "name": "Taurus KEPD",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "MARS II",
+        "range_km": 80,
+        "damage": 10,
+        "radius": 1
+      },
+      {
+        "name": "NSM (NATO)",
+        "range_km": 185,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Japan": {
+    "build_points": 135,
+    "ground": {
+      "tanks": 600,
+      "artillery": 700,
+      "personnel": 250000
+    },
+    "air": {
+      "aircraft_total": 770,
+      "fighters": 300,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 155,
+      "carriers": 0,
+      "subs": 20
+    },
+    "defense": {
+      "air_defense": 0.76
+    },
+    "missiles": [
+      {
+        "name": "Type-12B",
+        "range_km": 400,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "JASSM-ER (procurement)",
+        "range_km": 900,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "ASM-3",
+        "range_km": 200,
+        "damage": 14,
+        "radius": 1
+      }
+    ]
+  },
+  "South Korea": {
+    "build_points": 135,
+    "ground": {
+      "tanks": 2500,
+      "artillery": 5000,
+      "personnel": 555000
+    },
+    "air": {
+      "aircraft_total": 1600,
+      "fighters": 450,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 150,
+      "carriers": 0,
+      "subs": 18
+    },
+    "defense": {
+      "air_defense": 0.75
+    },
+    "missiles": [
+      {
+        "name": "Hyunmoo-3",
+        "range_km": 1500,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "Hyunmoo-2",
+        "range_km": 800,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "ATACMS",
+        "range_km": 300,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "North Korea": {
+    "build_points": 90,
+    "ground": {
+      "tanks": 3500,
+      "artillery": 8000,
+      "personnel": 1200000
+    },
+    "air": {
+      "aircraft_total": 500,
+      "fighters": 200,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 80,
+      "carriers": 0,
+      "subs": 70
+    },
+    "defense": {
+      "air_defense": 0.5
+    },
+    "missiles": [
+      {
+        "name": "Hwasong-15",
+        "range_km": 10000,
+        "damage": 26,
+        "radius": 2
+      },
+      {
+        "name": "KN-23",
+        "range_km": 700,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Nodong",
+        "range_km": 1300,
+        "damage": 18,
+        "radius": 1
+      }
+    ]
+  },
+  "Pakistan": {
+    "build_points": 120,
+    "ground": {
+      "tanks": 2400,
+      "artillery": 3500,
+      "personnel": 650000
+    },
+    "air": {
+      "aircraft_total": 900,
+      "fighters": 400,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 75,
+      "carriers": 0,
+      "subs": 5
+    },
+    "defense": {
+      "air_defense": 0.65
+    },
+    "missiles": [
+      {
+        "name": "Shaheen-III",
+        "range_km": 2750,
+        "damage": 22,
+        "radius": 2
+      },
+      {
+        "name": "Babur",
+        "range_km": 700,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Ghaznavi",
+        "range_km": 290,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Israel": {
+    "build_points": 130,
+    "ground": {
+      "tanks": 1600,
+      "artillery": 1000,
+      "personnel": 170000
+    },
+    "air": {
+      "aircraft_total": 600,
+      "fighters": 300,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 65,
+      "carriers": 0,
+      "subs": 5
+    },
+    "defense": {
+      "air_defense": 0.82
+    },
+    "missiles": [
+      {
+        "name": "Jericho III",
+        "range_km": 6500,
+        "damage": 24,
+        "radius": 2
+      },
+      {
+        "name": "LORA",
+        "range_km": 400,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Delilah",
+        "range_km": 250,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Iran": {
+    "build_points": 110,
+    "ground": {
+      "tanks": 1500,
+      "artillery": 4000,
+      "personnel": 575000
+    },
+    "air": {
+      "aircraft_total": 300,
+      "fighters": 150,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 100,
+      "carriers": 0,
+      "subs": 34
+    },
+    "defense": {
+      "air_defense": 0.62
+    },
+    "missiles": [
+      {
+        "name": "Sejjil",
+        "range_km": 2000,
+        "damage": 20,
+        "radius": 2
+      },
+      {
+        "name": "Shahab-3",
+        "range_km": 1300,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "Soumar",
+        "range_km": 700,
+        "damage": 16,
+        "radius": 1
+      }
+    ]
+  },
+  "Saudi Arabia": {
+    "build_points": 120,
+    "ground": {
+      "tanks": 1100,
+      "artillery": 800,
+      "personnel": 250000
+    },
+    "air": {
+      "aircraft_total": 850,
+      "fighters": 350,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 55,
+      "carriers": 0,
+      "subs": 0
+    },
+    "defense": {
+      "air_defense": 0.7
+    },
+    "missiles": [
+      {
+        "name": "DF-3",
+        "range_km": 2800,
+        "damage": 22,
+        "radius": 2
+      },
+      {
+        "name": "Abqaiq-1",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "M-302",
+        "range_km": 160,
+        "damage": 10,
+        "radius": 1
+      }
+    ]
+  },
+  "Turkey": {
+    "build_points": 125,
+    "ground": {
+      "tanks": 2600,
+      "artillery": 3000,
+      "personnel": 440000
+    },
+    "air": {
+      "aircraft_total": 1000,
+      "fighters": 250,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 150,
+      "carriers": 0,
+      "subs": 12
+    },
+    "defense": {
+      "air_defense": 0.68
+    },
+    "missiles": [
+      {
+        "name": "Bora",
+        "range_km": 280,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "SOM",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "J-600T",
+        "range_km": 150,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Italy": {
+    "build_points": 120,
+    "ground": {
+      "tanks": 800,
+      "artillery": 800,
+      "personnel": 170000
+    },
+    "air": {
+      "aircraft_total": 800,
+      "fighters": 200,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 140,
+      "carriers": 2,
+      "subs": 8
+    },
+    "defense": {
+      "air_defense": 0.7
+    },
+    "missiles": [
+      {
+        "name": "Storm Shadow",
+        "range_km": 560,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Teseo",
+        "range_km": 180,
+        "damage": 12,
+        "radius": 1
+      },
+      {
+        "name": "ATACMS (NATO)",
+        "range_km": 300,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Spain": {
+    "build_points": 115,
+    "ground": {
+      "tanks": 400,
+      "artillery": 600,
+      "personnel": 120000
+    },
+    "air": {
+      "aircraft_total": 500,
+      "fighters": 140,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 120,
+      "carriers": 1,
+      "subs": 3
+    },
+    "defense": {
+      "air_defense": 0.65
+    },
+    "missiles": [
+      {
+        "name": "Taurus",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Spada-2000",
+        "range_km": 100,
+        "damage": 10,
+        "radius": 1
+      },
+      {
+        "name": "Spike NLOS",
+        "range_km": 70,
+        "damage": 10,
+        "radius": 1
+      }
+    ]
+  },
+  "Australia": {
+    "build_points": 120,
+    "ground": {
+      "tanks": 60,
+      "artillery": 250,
+      "personnel": 60000
+    },
+    "air": {
+      "aircraft_total": 450,
+      "fighters": 120,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 50,
+      "carriers": 0,
+      "subs": 6
+    },
+    "defense": {
+      "air_defense": 0.66
+    },
+    "missiles": [
+      {
+        "name": "JASSM-ER",
+        "range_km": 900,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "Harpoon",
+        "range_km": 220,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "HIMARS (GMLRS)",
+        "range_km": 90,
+        "damage": 10,
+        "radius": 1
+      }
+    ]
+  },
+  "Canada": {
+    "build_points": 115,
+    "ground": {
+      "tanks": 80,
+      "artillery": 200,
+      "personnel": 68000
+    },
+    "air": {
+      "aircraft_total": 380,
+      "fighters": 90,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 50,
+      "carriers": 0,
+      "subs": 4
+    },
+    "defense": {
+      "air_defense": 0.64
+    },
+    "missiles": [
+      {
+        "name": "JASSM",
+        "range_km": 370,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Harpoon",
+        "range_km": 220,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "HIMARS (ATACMS)",
+        "range_km": 300,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Brazil": {
+    "build_points": 110,
+    "ground": {
+      "tanks": 400,
+      "artillery": 700,
+      "personnel": 360000
+    },
+    "air": {
+      "aircraft_total": 400,
+      "fighters": 90,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 110,
+      "carriers": 0,
+      "subs": 5
+    },
+    "defense": {
+      "air_defense": 0.6
+    },
+    "missiles": [
+      {
+        "name": "AV-TM 300",
+        "range_km": 300,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "MANSUP",
+        "range_km": 70,
+        "damage": 10,
+        "radius": 1
+      },
+      {
+        "name": "ASTROS SS-30",
+        "range_km": 30,
+        "damage": 8,
+        "radius": 1
+      }
+    ]
+  },
+  "Ukraine": {
+    "build_points": 115,
+    "ground": {
+      "tanks": 900,
+      "artillery": 1500,
+      "personnel": 600000
+    },
+    "air": {
+      "aircraft_total": 200,
+      "fighters": 60,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 20,
+      "carriers": 0,
+      "subs": 0
+    },
+    "defense": {
+      "air_defense": 0.7
+    },
+    "missiles": [
+      {
+        "name": "Grom-2",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Neptune",
+        "range_km": 280,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "Tochka-U",
+        "range_km": 120,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Poland": {
+    "build_points": 120,
+    "ground": {
+      "tanks": 1200,
+      "artillery": 1000,
+      "personnel": 200000
+    },
+    "air": {
+      "aircraft_total": 300,
+      "fighters": 100,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 50,
+      "carriers": 0,
+      "subs": 1
+    },
+    "defense": {
+      "air_defense": 0.68
+    },
+    "missiles": [
+      {
+        "name": "JASSM",
+        "range_km": 370,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "HIMARS (ATACMS)",
+        "range_km": 300,
+        "damage": 12,
+        "radius": 1
+      },
+      {
+        "name": "NSM",
+        "range_km": 185,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Egypt": {
+    "build_points": 110,
+    "ground": {
+      "tanks": 4000,
+      "artillery": 4000,
+      "personnel": 450000
+    },
+    "air": {
+      "aircraft_total": 1100,
+      "fighters": 250,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 250,
+      "carriers": 2,
+      "subs": 8
+    },
+    "defense": {
+      "air_defense": 0.6
+    },
+    "missiles": [
+      {
+        "name": "Scud-B",
+        "range_km": 300,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "KSR-2",
+        "range_km": 200,
+        "damage": 12,
+        "radius": 1
+      },
+      {
+        "name": "P-15",
+        "range_km": 80,
+        "damage": 10,
+        "radius": 1
+      }
+    ]
+  },
+  "Indonesia": {
+    "build_points": 105,
+    "ground": {
+      "tanks": 400,
+      "artillery": 800,
+      "personnel": 395000
+    },
+    "air": {
+      "aircraft_total": 350,
+      "fighters": 90,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 200,
+      "carriers": 0,
+      "subs": 5
+    },
+    "defense": {
+      "air_defense": 0.58
+    },
+    "missiles": [
+      {
+        "name": "Yakhont",
+        "range_km": 300,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "Harpoon",
+        "range_km": 220,
+        "damage": 12,
+        "radius": 1
+      },
+      {
+        "name": "ASTROS SS-30",
+        "range_km": 30,
+        "damage": 8,
+        "radius": 1
+      }
+    ]
+  },
+  "Vietnam": {
+    "build_points": 105,
+    "ground": {
+      "tanks": 2000,
+      "artillery": 3000,
+      "personnel": 480000
+    },
+    "air": {
+      "aircraft_total": 300,
+      "fighters": 80,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 150,
+      "carriers": 0,
+      "subs": 6
+    },
+    "defense": {
+      "air_defense": 0.6
+    },
+    "missiles": [
+      {
+        "name": "K-300P Bastion",
+        "range_km": 300,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "Scud-B",
+        "range_km": 300,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "KH-35",
+        "range_km": 130,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "Taiwan": {
+    "build_points": 120,
+    "ground": {
+      "tanks": 800,
+      "artillery": 1200,
+      "personnel": 215000
+    },
+    "air": {
+      "aircraft_total": 400,
+      "fighters": 200,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 115,
+      "carriers": 0,
+      "subs": 2
+    },
+    "defense": {
+      "air_defense": 0.74
+    },
+    "missiles": [
+      {
+        "name": "Hsiung Feng IIE",
+        "range_km": 600,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Yun Feng",
+        "range_km": 1200,
+        "damage": 18,
+        "radius": 1
+      },
+      {
+        "name": "Sky Spear",
+        "range_km": 300,
+        "damage": 14,
+        "radius": 1
+      }
+    ]
+  },
+  "Mexico": {
+    "build_points": 95,
+    "ground": {
+      "tanks": 0,
+      "artillery": 500,
+      "personnel": 215000
+    },
+    "air": {
+      "aircraft_total": 350,
+      "fighters": 0,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 140,
+      "carriers": 0,
+      "subs": 0
+    },
+    "defense": {
+      "air_defense": 0.5
+    },
+    "missiles": [
+      {
+        "name": "Pegaso",
+        "range_km": 100,
+        "damage": 10,
+        "radius": 1
+      },
+      {
+        "name": "Harpoon",
+        "range_km": 220,
+        "damage": 12,
+        "radius": 1
+      },
+      {
+        "name": "ATACMS",
+        "range_km": 300,
+        "damage": 12,
+        "radius": 1
+      }
+    ]
+  },
+  "South Africa": {
+    "build_points": 100,
+    "ground": {
+      "tanks": 200,
+      "artillery": 600,
+      "personnel": 75000
+    },
+    "air": {
+      "aircraft_total": 250,
+      "fighters": 25,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 40,
+      "carriers": 0,
+      "subs": 3
+    },
+    "defense": {
+      "air_defense": 0.55
+    },
+    "missiles": [
+      {
+        "name": "Raptor III",
+        "range_km": 150,
+        "damage": 12,
+        "radius": 1
+      },
+      {
+        "name": "Umkhonto",
+        "range_km": 60,
+        "damage": 10,
+        "radius": 1
+      },
+      {
+        "name": "G6 Rocket",
+        "range_km": 30,
+        "damage": 8,
+        "radius": 1
+      }
+    ]
+  },
+  "Sweden": {
+    "build_points": 110,
+    "ground": {
+      "tanks": 120,
+      "artillery": 300,
+      "personnel": 50000
+    },
+    "air": {
+      "aircraft_total": 250,
+      "fighters": 90,
+      "bombers": 0
+    },
+    "naval": {
+      "ships": 60,
+      "carriers": 0,
+      "subs": 5
+    },
+    "defense": {
+      "air_defense": 0.7
+    },
+    "missiles": [
+      {
+        "name": "RBS-15",
+        "range_km": 250,
+        "damage": 14,
+        "radius": 1
+      },
+      {
+        "name": "Taurus KEPD",
+        "range_km": 500,
+        "damage": 16,
+        "radius": 1
+      },
+      {
+        "name": "Archer Rocket",
+        "range_km": 40,
+        "damage": 8,
+        "radius": 1
+      }
+    ]
   }
 }
